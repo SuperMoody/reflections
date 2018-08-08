@@ -24,3 +24,7 @@
 7) How do you want to use Git?
 
 >
+
+8) How can you use the staging area to you have one commit per logical change?
+
+> 
